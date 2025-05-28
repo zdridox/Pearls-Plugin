@@ -1,0 +1,10 @@
+name: Pearls
+version: '${project.version}'
+main: dev.mateuszzdr.pearls.Pearls
+api-version: '1.21'
+author: zdridox
+description: get how many ender pearls you have thrown are in the air right now, useful for checking if your chunk loaders all have pearls in them.
+website: mateusz-zdr.dev
+commands:
+  Pearls:
+    permission: Pearls.Use
